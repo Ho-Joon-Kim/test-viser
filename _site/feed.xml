@@ -1,95 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello. I'm Jami Gibbs.</title>
-    <description>I'm a software developer and designer from Chicago creating useful things for the web.</description>
+    <title>VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling</title>
+    <description>Anonymous ICCV submission&lt;br/&gt;Paper ID 7919</description>
     <link>http://localhost:4000/test-viser/</link>
     <atom:link href="http://localhost:4000/test-viser/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Mar 2025 18:06:14 +0900</pubDate>
-    <lastBuildDate>Mon, 10 Mar 2025 18:06:14 +0900</lastBuildDate>
+    <pubDate>Tue, 11 Mar 2025 22:45:47 +0900</pubDate>
+    <lastBuildDate>Tue, 11 Mar 2025 22:45:47 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Phantom</title>
+        <title>3D</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 06:15:00 +0900</pubDate>
-        <link>http://localhost:4000/test-viser/development/design/2016/02/21/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/test-viser/development/design/2016/02/21/phantom-jekyll-template.html</guid>
-        
-        <category>Jekyll</category>
-        
-        <category>Sass</category>
-        
-        <category>Bootstrap</category>
+        <pubDate>Tue, 11 Mar 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/test-viser/visors/2025/03/11/e.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-viser/visors/2025/03/11/e.html</guid>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>visors</category>
         
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Related Works</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 00:56:00 +0900</pubDate>
-        <link>http://localhost:4000/test-viser/development/design/2016/02/21/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/test-viser/development/design/2016/02/21/rescue-themes.html</guid>
-        
-        <category>WordPress</category>
-        
-        <category>PHP</category>
-        
-        <category>Sass</category>
+        <pubDate>Tue, 11 Mar 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/test-viser/texts/2025/03/11/d.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-viser/texts/2025/03/11/d.html</guid>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>texts</category>
         
       </item>
     
       <item>
-        <title>Weathercast</title>
+        <title>Introduction</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 00:56:00 +0900</pubDate>
-        <link>http://localhost:4000/test-viser/development/2016/02/21/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/test-viser/development/2016/02/21/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
+        <pubDate>Tue, 11 Mar 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/test-viser/texts/2025/03/11/c.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-viser/texts/2025/03/11/c.html</guid>
         
         
-        <category>development</category>
+        <category>texts</category>
         
       </item>
     
       <item>
-        <title>Bloc Jams Angular</title>
+        <title>Abstract</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 23:15:00 +0900</pubDate>
-        <link>http://localhost:4000/test-viser/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/test-viser/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
+        <pubDate>Tue, 11 Mar 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/test-viser/texts/2025/03/11/b.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-viser/texts/2025/03/11/b.html</guid>
         
         
-        <category>development</category>
+        <category>texts</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Tue, 11 Mar 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/test-viser/media/2025/03/11/a.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-viser/media/2025/03/11/a.html</guid>
+        
+        
+        <category>media</category>
         
       </item>
     

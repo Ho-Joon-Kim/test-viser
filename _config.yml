@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
+title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling"
 email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: "Anonymous ICCV submission<br/>Paper ID 7919"
 baseurl: "/test-viser" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
@@ -31,7 +31,7 @@ plugins:
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
-paginate: 10
+paginate: 100
 paginate_path: "/page:num/"
 
 pagination:
@@ -60,7 +60,7 @@ pagination:
   limit: 0
   
   # Optional, defines the field that the posts should be sorted on (omit to default to 'date')
-  sort_field: 'date'
+  sort_field: 'priority'
 
   # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
   sort_reverse: true

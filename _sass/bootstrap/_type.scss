@@ -22,16 +22,26 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1,
-h2, .h2,
-h3, .h3 {
+h2, .h2 {
   margin-top: $line-height-computed;
-  margin-bottom: ($line-height-computed / 2);
+  margin-bottom: ($line-height-computed / 2) + 5;
 
   small,
   .small {
     font-size: 65%;
   }
 }
+
+h3, .h3 {
+  margin-top: 80px;
+  margin-bottom: ($line-height-computed / 2) + 5;
+
+  small,
+  .small {
+    font-size: 65%;
+  }
+}
+
 h4, .h4,
 h5, .h5,
 h6, .h6 {
