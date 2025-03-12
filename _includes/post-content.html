@@ -38,7 +38,7 @@
       {% for link in post.links %}
       <!-- Insert two iframes -->
       <iframe
-        src="https://ho-joon-kim.github.io/test-viser/build/?playbackPath={{ link }}&initDistanceScale=1&initHeightOffset=0.0"
+        src="{{ site.url }}/{{ site.baseurl }}/build/?playbackPath={{ link }}&initDistanceScale=1&initHeightOffset=0.0"
       ></iframe>
       {% endfor %}
     </div>

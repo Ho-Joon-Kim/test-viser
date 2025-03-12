@@ -17,10 +17,10 @@ title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generatio
 email: 'jami0821@gmail.com'
 description: "Anonymous ICCV submission<br/>Paper ID 7919"
 baseurl: "/test-viser" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://ho-joon-kim.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'example'
+github_username: 'example'
+medium_username: 'example'
 
 # Build settings
 markdown: kramdown
@@ -92,8 +92,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2025 EverEx'
+admin_name: 'EverEx'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
