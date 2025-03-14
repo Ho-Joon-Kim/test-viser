@@ -3,5 +3,4 @@
 source "https://rubygems.org"
 gemspec
 gem 'kramdown-parser-gfm'
-gem 'kramdown-parser-gfm'
-gem 'kramdown-parser-gfm'
+gem "jekyll-paginate", "= 1.1.0"
